@@ -1,4 +1,4 @@
-// module.exports = {
-//     output: 'export',
-//   };
+module.exports = {
+    output: 'export',
+  };
   
