@@ -17,6 +17,7 @@ const config: Config = {
         '4xl': '15px 15px 0 rgba(0, 0, 0, 1)'
       },
       colors: {
+        "yellow-card": "hsl(47, 88%, 63%)",
         "pale-blue": "hsl(225, 100%, 94%)",
         "bright-blue": "hsl(245, 75%, 52%)",
         "very-pale-blue": "hsl(225, 100%, 98%)",
