@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Figtree({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Blog Preview Card",
+  title: "Frontend Projects",
   description: "A frontend mentor challenge",
 };
 
