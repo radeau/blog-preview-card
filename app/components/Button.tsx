@@ -5,7 +5,7 @@ interface Props {
 
 const Button: React.FC<Props> = ({children,color}) => {
     return (
-        <button className="font-extrabold h-full py-1 px-4 rounded"
+        <button className="font-extrabold h-full py-1 px-3 rounded"
         style={{
             backgroundColor: color
             }}>

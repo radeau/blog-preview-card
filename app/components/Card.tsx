@@ -10,7 +10,7 @@ interface CardProps {
 
 const Card: React.FC<CardProps> = ({ href, cardTitle, cardMessage }) => {
     return (
-    <div className="max-w-sm m-6 h-full bg-white border border-gray-200 rounded-xl shadow-xl dark:bg-gray-800 dark:border-gray-700">
+      <div className="max-w-sm m-6 h-full bg-white border border-gray-200 rounded-xl shadow-xl dark:bg-gray-800 dark:border-gray-700">
         <a href={href} target="_blank">
             {/* <Image src={blogComponent} alt="blog preview card component" className="w-full h-64 rounded-l" unoptimized /> */}
             <div className="w-full h-64 rounded-t-l bg-gradient-to-r from-green-400 to-blue-500 flex justify-center items-center">

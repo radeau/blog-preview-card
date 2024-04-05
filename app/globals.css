@@ -17,13 +17,7 @@
 }
 
 body {
-  /* background: hsl(47, 88%, 63%); */
-  background: #fff ;
-  /* background:
-      linear-gradient(rgba(255,255,255,.5), #F0E5D3),
-      url('noise.svg'); */
-      
-
+  background: #fff;
 }
 
 @layer utilities {
