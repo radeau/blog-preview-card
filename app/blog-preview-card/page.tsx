@@ -6,7 +6,7 @@ import Button from "../components/Button";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-yellow-card">
+    <main className="flex min-h-screen flex-col items-center justify-center sm:justify-between sm:p-24 bg-yellow-card">
      <div className="flex mx-4 ">
       <div className="max-w-sm rounded-2xl overflow-hidden shadow-lg border border-black md:drop-shadow-3xl hover:drop-shadow-4xl">
           <div className="p-6 bg-white">
